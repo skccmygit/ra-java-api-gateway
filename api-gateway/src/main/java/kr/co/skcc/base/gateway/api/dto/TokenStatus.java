@@ -1,4 +1,4 @@
-package kr.co.skcc.oss.gateway.api.dto;
+package kr.co.skcc.base.gateway.api.dto;
 
 /**
  * TokenStatus.java

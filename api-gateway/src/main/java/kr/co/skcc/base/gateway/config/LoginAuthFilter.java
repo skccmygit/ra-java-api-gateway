@@ -1,9 +1,9 @@
-package kr.co.skcc.oss.gateway.config;
+package kr.co.skcc.base.gateway.config;
 
-import kr.co.skcc.oss.gateway.api.dto.TokenStatus;
-import kr.co.skcc.oss.gateway.service.AuthorizationService;
-import kr.co.skcc.oss.gateway.util.IpAddressMatcher;
-import kr.co.skcc.oss.gateway.util.JwtUtils;
+import kr.co.skcc.base.gateway.api.dto.TokenStatus;
+import kr.co.skcc.base.gateway.service.AuthorizationService;
+import kr.co.skcc.base.gateway.util.IpAddressMatcher;
+import kr.co.skcc.base.gateway.util.JwtUtils;
 import io.jsonwebtoken.ExpiredJwtException;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;

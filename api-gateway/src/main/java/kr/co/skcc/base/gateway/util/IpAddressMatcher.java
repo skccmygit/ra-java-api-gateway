@@ -1,4 +1,4 @@
-package kr.co.skcc.oss.gateway.util;
+package kr.co.skcc.base.gateway.util;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;

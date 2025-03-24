@@ -1,9 +1,9 @@
-package kr.co.skcc.oss.gateway.service.impl;
+package kr.co.skcc.base.gateway.service.impl;
 
-import kr.co.skcc.oss.gateway.api.dto.TokenStatus;
-import kr.co.skcc.oss.gateway.domain.Token;
-import kr.co.skcc.oss.gateway.repository.TokenRepository;
-import kr.co.skcc.oss.gateway.service.AuthorizationService;
+import kr.co.skcc.base.gateway.api.dto.TokenStatus;
+import kr.co.skcc.base.gateway.domain.Token;
+import kr.co.skcc.base.gateway.repository.TokenRepository;
+import kr.co.skcc.base.gateway.service.AuthorizationService;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

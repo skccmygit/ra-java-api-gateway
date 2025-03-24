@@ -1,4 +1,4 @@
-package kr.co.skcc.oss.gateway.api;
+package kr.co.skcc.base.gateway.api;
 
 import kr.co.skcc.oss.gateway.config.CustomHealthIndicator;
 import lombok.RequiredArgsConstructor;

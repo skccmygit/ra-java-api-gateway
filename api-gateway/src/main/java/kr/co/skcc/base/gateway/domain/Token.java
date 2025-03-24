@@ -1,4 +1,4 @@
-package kr.co.skcc.oss.gateway.domain;
+package kr.co.skcc.base.gateway.domain;
 
 import lombok.Data;
 import org.springframework.data.annotation.Id;

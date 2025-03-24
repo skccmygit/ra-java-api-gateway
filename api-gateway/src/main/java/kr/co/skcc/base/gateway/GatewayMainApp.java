@@ -1,4 +1,4 @@
-package kr.co.skcc.oss.gateway;
+package kr.co.skcc.base.gateway;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
