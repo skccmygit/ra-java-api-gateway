@@ -50,6 +50,12 @@ cd api-gateway
 
 ![shutdown gateway](docs/imgs/gateway-down.png)
 
+## Related Repositories
+
+- ra-java-framework-common
+- ra-java-framework-work-batch
+- ra-java-framework-account
+
 ## Troubleshooting
 
 - Check debug.log for detailed error messages
