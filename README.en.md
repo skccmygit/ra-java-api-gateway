@@ -9,7 +9,6 @@ This project is used to check as if gateway is working or not.
 
 - JDK 17 or higher
 - Lombok
-- Docker and Docker Compose
 - Gradle 8.3 (or use the included Gradle wrapper)
 
 ## Project Structure
