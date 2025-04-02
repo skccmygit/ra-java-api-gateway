@@ -111,19 +111,6 @@ spring:
               - "*"
             allowCredentials: true
             exposedHeaders: ["Content-Disposition", "token-status"]
-  data:
-    redis:
-      database: 0
-      host: localhost
-      port: 6379
-      password: "changeme"
-      timeout: 30000
-      lettuce:
-        pool:
-          maxTotal: 8
-          maxWaitMillis: 10000
-          maxIdle: 8
-          minIdle: 0
 
 springdoc:
   swagger-ui:
