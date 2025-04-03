@@ -32,10 +32,12 @@ cd api-gateway
 ./gradlew clean build
 ```
 
-* NOTE: In case you get error `./gradlew: Permission denied` you should try to run one of these command  
-    -``sudo chmod +x ./gradlew``
-    
-    -``git update-index --chmod=+x gradlew``
+> [!NOTE]
+> 
+> In case you get error `./gradlew: Permission denied` you should try to run one of these command  
+>    -``sudo chmod +x ./gradlew``
+>    
+>    -``git update-index --chmod=+x gradlew``
 
 Then retry from step 2 above.
 
@@ -47,12 +49,14 @@ Then retry from step 2 above.
 ./gradlew :api-gateway:bootRun
 ```
 
-You can also run project in IDE likes IntelliJ, Eclipse, ...
-In case you get error when starting this project, you should check the project config:
-- JDK version 
-- Gradle config
-- Proxy prevention
-- Try to remove '.gradle' folder inside project and rebuild gradle in step 2 (Build the project)
+> [!NOTE]
+> 
+> You can also run project in IDE likes IntelliJ, Eclipse, ...
+> In case you get error when starting this project, you should check the project config:
+> - JDK version 
+> - Gradle config
+> - Proxy prevention
+> - Try to remove '.gradle' folder inside project and rebuild gradle in step 2 (Build the project)
 
 2. Gateway health:
 
