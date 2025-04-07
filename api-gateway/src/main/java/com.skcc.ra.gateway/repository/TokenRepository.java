@@ -1,6 +1,6 @@
-package kr.co.skcc.base.gateway.repository;
+package com.skcc.ra.gateway.repository;
 
-import kr.co.skcc.base.gateway.domain.Token;
+import com.skcc.ra.gateway.domain.Token;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
 

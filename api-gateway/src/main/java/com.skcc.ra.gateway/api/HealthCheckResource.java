@@ -1,6 +1,6 @@
-package kr.co.skcc.base.gateway.api;
+package com.skcc.ra.gateway.api;
 
-import kr.co.skcc.base.gateway.config.CustomHealthIndicator;
+import com.skcc.ra.gateway.config.CustomHealthIndicator;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;

@@ -1,4 +1,4 @@
-package kr.co.skcc.base.gateway.util;
+package com.skcc.ra.gateway.util;
 
 import io.jsonwebtoken.*;
 import lombok.extern.slf4j.Slf4j;

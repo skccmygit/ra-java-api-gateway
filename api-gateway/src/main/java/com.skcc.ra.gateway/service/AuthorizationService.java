@@ -1,6 +1,6 @@
-package kr.co.skcc.base.gateway.service;
+package com.skcc.ra.gateway.service;
 
-import kr.co.skcc.base.gateway.api.dto.TokenStatus;
+import com.skcc.ra.gateway.api.dto.TokenStatus;
 import org.springframework.web.server.ServerWebExchange;
 
 /**

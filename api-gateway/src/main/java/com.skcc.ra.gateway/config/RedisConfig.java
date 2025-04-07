@@ -1,4 +1,4 @@
-package kr.co.skcc.base.gateway.config;
+package com.skcc.ra.gateway.config;
 
 import com.fasterxml.jackson.annotation.JsonAutoDetect;
 import com.fasterxml.jackson.annotation.PropertyAccessor;

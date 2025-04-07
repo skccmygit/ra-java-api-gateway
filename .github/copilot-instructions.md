@@ -14,23 +14,21 @@ ra-java-api-gateway/
 │   ├── src/                   # Source code directory
 │       ├── main/              # Main application code
 │           ├── java/          # Java source code
-│               ├── kr/
-│                   ├── co/
-│                       ├── skcc/
-│                           ├── base/
-│                               ├── gateway/ # Gateway logic
-│                                   ├── api/          # API controllers
-│                                   ├── config/       # Configuration classes
-│                                   ├── service/      # Service layer
-│                                   ├── util/         # Utility classes
+│               ├── com/
+│                   ├── skcc/
+│                       ├── ra/
+│                           ├── gateway/ # Gateway logic
+│                               ├── api/          # API controllers
+│                               ├── config/       # Configuration classes
+│                               ├── service/      # Service layer
+│                               ├── util/         # Utility classes
 │           ├── resources/       # Resource files
 │       ├── test/                # Test code
 │           ├── java/            # Java test code
-│               ├── kr/
-│                   ├── co/
-│                       ├── skcc/
-│                           ├── base/
-│                               ├── gateway/ # Gateway test logic
+│               ├── com/
+│                   ├── skcc/
+│                       ├── ra/
+│                           ├── gateway/ # Gateway test logic
 ├── build/                      # Build-related files and directories
 ├── docs/                       # Documentation directory
 ├── gradle/                     # Gradle-related directory
