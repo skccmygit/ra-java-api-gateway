@@ -35,6 +35,7 @@ cd api-gateway
 > [!NOTE]
 > 
 > In case you get error `./gradlew: Permission denied` you should try to run one of these command  
+>
 >    -``sudo chmod +x ./gradlew``
 >    
 >    -``git update-index --chmod=+x gradlew``
@@ -70,9 +71,9 @@ Then retry from step 2 above.
 
 ## Related Repositories
 
-- [ra-java-framework-common](https://github.com/skccmygit/ra-java-framework-common)
-- [ra-java-framework-work-batch](https://github.com/skccmygit/ra-java-framework-work-batch)
-- [ra-java-framework-account](https://github.com/skccmygit/ra-java-framework-account)
+- [ra-java-framework-common](https://github.com/skccmygit/ra-java-framework-common) API Management / Menu Management / Code Management / File Management / etc.
+- [ra-java-framework-work-batch](https://github.com/skccmygit/ra-java-framework-work-batch) API Log / Account Permission related batch
+- [ra-java-framework-account](https://github.com/skccmygit/ra-java-framework-account) Authentication / Authorization / Account Management / History Management
 
 ## Troubleshooting
 
