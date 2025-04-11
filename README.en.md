@@ -2,7 +2,6 @@
 
 ## Introduction
 
-Welcome to [RA-JAVA-API-GATEWAY] This project document will guide you through setting up the project, so you can get started quickly.
 This project is used to check as if gateway is working or not.
 
 ## Prerequisites
@@ -39,8 +38,8 @@ cd api-gateway
 >    -``sudo chmod +x ./gradlew``
 >    
 >    -``git update-index --chmod=+x gradlew``
-
-Then retry from step 2 above.
+> 
+> Then retry from step 2 above.
 
 ## Running the Application
 

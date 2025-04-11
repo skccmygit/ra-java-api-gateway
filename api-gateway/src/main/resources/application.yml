@@ -144,7 +144,7 @@ app:
     whitelist: 127.0.0.1/32
 
 ## JWT Key 값  추후 Secret으로 변경 예정 5분 x 60 x 1000 / 720분 x 60 x 1000
-  jwtSecret: adtcapsSecretKey
+  jwtSecret: jwtSecretKey
   jwtExpirationMs: 300000
   jwtRefreshExpirationMs: 43200000
 
