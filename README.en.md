@@ -16,7 +16,7 @@ The project consists of the module:
 
 - `api-gateway` - Check activity status of gateway, shutdown gateway service.
 
-## Setup & Installation
+## Installation and Setup
 
 1. Clone the repository:
 
