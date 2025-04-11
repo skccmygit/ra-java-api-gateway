@@ -1,4 +1,4 @@
-# SKCC KMS AI - RA-JAVA-API-GATEWAY
+# RA-JAVA-API-GATEWAY
 
 ## Introduction
 
