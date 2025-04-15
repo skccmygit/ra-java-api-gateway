@@ -2,7 +2,14 @@
 
 ## Introduction
 
-This project is used to check as if gateway is working or not.
+This project serves as a central gateway for managing and routing API requests across various services of the system management common module. 
+
+Key Features:
+- **Authentication and Authorization**: Implements JWT-based authentication and role-based access control for secure API access.
+- **Request Filtering**: Filters incoming requests based on IP whitelisting and token validation.
+- **Centralized API Management**: Acts as a single entry point for all API requests, simplifying service integration and management.
+- **Health Monitoring**: Provides endpoints to check the gateway's health status and shut it down if necessary.
+- **Scalability and Flexibility**: Designed to handle high traffic and integrate seamlessly with other RA-JAVA framework components.
 
 ## Prerequisites
 
